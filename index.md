@@ -2,7 +2,27 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## Bio
+I’m a first year PhD student with Prof. Nigel in Language Technology Lab, University of Cambridge. My research focus is in NLP, especially text generation from structured data and logical reasoning.
+
+## Publications
+* [**<span style="color:blue">Learning Functional Distributional Semantics with Visual Data</span>**](https://openreview.net/pdf?id=NCNkE3QzWhV)  
+    Yinhong Liu and Guy Emerson. [[code](https://github.com/williamLyh/PixieVGModel)]  
+    In Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL), main conference. 2022.
+
+* [**<span style="color:blue">Multi-channel audio statistical restoration</span>**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9259487)  
+    Yinhong Liu and Simon Godsill.  
+    IEEE International Conference on Signal Processing, Communications and Computing (IEEE-ICSPCC), 2020.
+
+## Education
+* <span style="color:blue">University of Cambridge</span>, 2021-present   
+  PhD in Computation, Cognition and Language  
+* <span style="color:blue">University of Cambridge</span>, 2020-2021  
+  Mphil in Advanced Computer Science
+* <span style="color:blue">University of Cambridge</span>, 2014-2018  
+  B.A and MEng in Information Engineering
+
+<!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
@@ -120,4 +140,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-```
+``` -->
