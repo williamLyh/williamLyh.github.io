@@ -6,7 +6,7 @@ layout: default
 I’m a first year PhD student with Prof. Nigel in Language Technology Lab, University of Cambridge. My research focus is in NLP, especially text generation from structured data and logical reasoning.
 
 ## Publications
-* [**<span style="color:blue">Learning Functional Distributional Semantics with Visual Data</span>**](https://openreview.net/pdf?id=NCNkE3QzWhV)  
+* [**<span style="color:blue">Learning Functional Distributional Semantics with Visual Data</span>**](https://arxiv.org/pdf/2204.10624.pdf)[[slides](https://williamlyh.github.io/assets/img/FDS_visual_ACL2022.pdf)]  
     Yinhong Liu and Guy Emerson. [[code](https://github.com/williamLyh/PixieVGModel)]  
     In Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL), main conference. 2022.
 
