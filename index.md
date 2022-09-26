@@ -3,9 +3,13 @@ layout: default
 ---
 
 ## Bio
-I’m a first year PhD student with Prof. Nigel in Language Technology Lab, University of Cambridge. My research focus is in NLP, especially text generation from structured data and logical reasoning.
+I’m a second year PhD student with Prof. Nigel Collier in Language Technology Lab, University of Cambridge. My research focus is in AI and NLP, especially in understanding logical or multi-modal scenarios and generating natural sequences from them.
 
 ## Publications
+* [**<span style="color:blue">Plug-and-play Recipe Generation with Content Planning</span>**](/Plug_and_Play_Recipe_Generation_with_Content_Planning.pdf)
+    Yinhong Liu, Yixuan Su, Ehsan Shareghi and Nigel Collier.
+    Under reviewing.
+
 * [**<span style="color:blue">Learning Functional Distributional Semantics with Visual Data</span>**](https://arxiv.org/abs/2204.10624)[[slides](https://williamlyh.github.io/assets/img/FDS_visual_ACL2022.pdf)]  
     Yinhong Liu and Guy Emerson. [[code](https://github.com/williamLyh/PixieVGModel)]  
     In Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL), main conference. 2022.
@@ -16,11 +20,11 @@ I’m a first year PhD student with Prof. Nigel in Language Technology Lab, Univ
 
 ## Education
 * <span style="color:blue">University of Cambridge</span>, 2021-present   
-  PhD in Computation, Cognition and Language  
+  PhD in Computation, Cognition and Language. Supervisied by Prof. Nigel Collier and Prof. Ehsan Shareghi.
 * <span style="color:blue">University of Cambridge</span>, 2020-2021  
-  Mphil in Advanced Computer Science
+  Mphil in Advanced Computer Science. Supervisied by Dr. Guy Emerson.
 * <span style="color:blue">University of Cambridge</span>, 2014-2018  
-  B.A and MEng in Information Engineering
+  B.A and MEng in Information Engineering. Supervisied by Prof. Simon Godsill.
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
 
