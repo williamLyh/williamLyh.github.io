@@ -26,6 +26,11 @@ I’m a second year PhD student with Prof. Nigel Collier in Language Technology 
 * <span style="color:blue">University of Cambridge</span>, 2014-2018  
   B.A and MEng in Information Engineering. Supervisied by Prof. Simon Godsill.
 
+
+## Professional Service  
+Program Committee Member/ Reviewer:  
+ACL Rolling Review (2022), EMNLP (2022), Generation, Evaluation & Metrics (GEM) workshop 2022  
+
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
