@@ -5,10 +5,14 @@ layout: default
 ## Bio
 I’m a second year PhD student with Prof. Nigel Collier in Language Technology Lab, University of Cambridge. My research focus is in AI and NLP, especially in understanding logical or multi-modal scenarios and generating natural sequences from them.
 
+## <span style="color:red">News!</span>
+* <span style="color:grey">25/10/2022:</span> One paper got accepted by GEM workshop in EMNLP 2022. See you in Abu Dhabi.
+* <span style="color:grey">21/03/2022:</span> One paper got accepted by main conference ACL 2022. See you in Dublin.
+
 ## Publications
 * [**<span style="color:blue">Plug-and-play Recipe Generation with Content Planning</span>**](/Plug_and_Play_Recipe_Generation_with_Content_Planning.pdf)  
     Yinhong Liu, Yixuan Su, Ehsan Shareghi and Nigel Collier.  
-    Under reviewing.  
+    The Conference on Empirical Methods in Natural Language Processing (EMNLP), Generation, Evaluation & Metrics (GEM) Workshop, 2022.
 
 * [**<span style="color:blue">Learning Functional Distributional Semantics with Visual Data</span>**](https://arxiv.org/abs/2204.10624)[[slides](https://williamlyh.github.io/assets/img/FDS_visual_ACL2022.pdf)]  
     Yinhong Liu and Guy Emerson. [[code](https://github.com/williamLyh/PixieVGModel)]  
@@ -28,8 +32,10 @@ I’m a second year PhD student with Prof. Nigel Collier in Language Technology 
 
 
 ## Professional Service  
-Program Committee Member/ Reviewer:  
-ACL Rolling Review (2022), EMNLP (2022), Generation, Evaluation & Metrics (GEM) workshop 2022  
+* Program Committee Member/ Reviewer:  
+  ACL Rolling Review (2022), EMNLP (2022), Generation, Evaluation & Metrics (GEM) workshop 2022  
+* Teaching:  
+  TA for Li18 Python for Computational Linguistics, 2021-2023.
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
 
