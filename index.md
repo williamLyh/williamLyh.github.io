@@ -5,7 +5,8 @@ layout: default
 ## Bio
 I’m a second year PhD student with Prof. Nigel Collier in Language Technology Lab, University of Cambridge. My research focus is in AI and NLP, especially in understanding logical or multi-modal scenarios and generating natural sequences from them.
 
-## <span style="color:red">News!</span>
+<!-- ## <span style="color:red">News!</span> -->
+## News!
 * <span style="color:grey">25/10/2022:</span> One paper got accepted by GEM workshop in EMNLP 2022. See you in Abu Dhabi.
 * <span style="color:grey">21/03/2022:</span> One paper got accepted by main conference ACL 2022. See you in Dublin.
 
