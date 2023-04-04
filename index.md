@@ -7,6 +7,7 @@ I’m a second year PhD student with Prof. Nigel Collier in Language Technology 
 
 <!-- ## <span style="color:red">News!</span> -->
 ## News!
+* <span style="color:grey">1/4/2023:</span> I'll be interning at Apple AI/ML this summer. 
 * <span style="color:grey">03/11/2022:</span> Going to present the paper *Learning Functional Distributional Semantics with Visual Data* on Cambridge Language Sciences Annual Symposium 2022.
 * <span style="color:grey">25/10/2022:</span> One paper got accepted by GEM workshop in EMNLP 2022.
 * <span style="color:grey">21/03/2022:</span> One paper got accepted by main conference ACL 2022. See you in Dublin.
