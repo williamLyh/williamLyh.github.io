@@ -13,7 +13,7 @@ I’m a second year PhD student with Prof. Nigel Collier in Language Technology 
 * <span style="color:grey">21/03/2022:</span> One paper got accepted by main conference ACL 2022. See you in Dublin.
 
 ## Publications
-* **Instruct-SCTG: Guiding Sequential Controlled Text Generation through Instructions**
+* **<span style="color:blue">Instruct-SCTG: Guiding Sequential Controlled Text Generation through Instructions</span>**  
     Yinhong Liu, Yixuan Su, Ehsan Shareghi and Nigel Collier. 
 
 * [**<span style="color:blue">Plug-and-play Recipe Generation with Content Planning</span>**](/Plug_and_Play_Recipe_Generation_with_Content_Planning.pdf)  
