@@ -3,17 +3,20 @@ layout: default
 ---
 
 ## Bio
-I’m a second year PhD student with Prof. Nigel Collier in Language Technology Lab, University of Cambridge. My research focus is in AI and NLP, especially in understanding logical or multi-modal scenarios and generating natural sequences from them.
+I’m a second year PhD student with Prof. Nigel Collier in Language Technology Lab, University of Cambridge. My research focus is in AI and NLP, especially in Controlled Text Generation with Large Language Models. The goal of my PhD is to generate structurally coherent text in various domains, including News, dialogs, stories and recipes.
 
 <!-- ## <span style="color:red">News!</span> -->
 ## News!
 * <span style="color:grey">09/12/2023:</span> I received the best reviewer award from EMNLP 2023 generation track. 
-* <span style="color:grey">01/04/2023:</span> I'll be interning at Apple AI/ML this summer. 
+* <span style="color:grey">01/06/2023:</span> I am interning at Apple AI/ML this summer. 
 * <span style="color:grey">03/11/2022:</span> Going to present the paper *Learning Functional Distributional Semantics with Visual Data* on Cambridge Language Sciences Annual Symposium 2022.
 * <span style="color:grey">25/10/2022:</span> One paper got accepted by GEM workshop in EMNLP 2022.
 * <span style="color:grey">21/03/2022:</span> One paper got accepted by main conference ACL 2022. See you in Dublin.
 
 ## Publications
+* **<span style="color:blue">Instruct-SCTG: Guiding Sequential Controlled Text Generation through Instructions</span>**  
+    Yinhong Liu, Yixuan Su, Ehsan Shareghi and Nigel Collier. 
+
 * [**<span style="color:blue">Plug-and-play Recipe Generation with Content Planning</span>**](/Plug_and_Play_Recipe_Generation_with_Content_Planning.pdf)  
     Yinhong Liu, Yixuan Su, Ehsan Shareghi and Nigel Collier.  
     The Conference on Empirical Methods in Natural Language Processing (EMNLP), Generation, Evaluation & Metrics (GEM) Workshop, 2022.
