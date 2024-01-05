@@ -3,21 +3,25 @@ layout: default
 ---
 
 ## Bio
-I’m a second year PhD student with Prof. Nigel Collier in Language Technology Lab, University of Cambridge. My research focus is in AI and NLP, especially in Controlled Text Generation with Large Language Models. The goal of my PhD is to generate structurally coherent text in various domains, including News, dialogs, stories and recipes.
+I’m a third year PhD student with Prof. Nigel Collier in Language Technology Lab, University of Cambridge. My research focus is in AI and NLP, especially in Controlled Text Generation with Large Language Models. The goal of my PhD is to generate structurally coherent text in various domains, including News, dialogs, stories and recipes.
 
 <!-- ## <span style="color:red">News!</span> -->
 ## News!
-* <span style="color:grey">09/12/2023:</span> I received the best reviewer award from EMNLP 2023 generation track. 
+* <span style="color:grey">09/12/2023:</span> I received the **Best Reviewer Award** from EMNLP 2023 generation track. 
 * <span style="color:grey">01/06/2023:</span> I am interning at Apple AI/ML this summer. 
 * <span style="color:grey">03/11/2022:</span> Going to present the paper *Learning Functional Distributional Semantics with Visual Data* on Cambridge Language Sciences Annual Symposium 2022.
 * <span style="color:grey">25/10/2022:</span> One paper got accepted by GEM workshop in EMNLP 2022.
 * <span style="color:grey">21/03/2022:</span> One paper got accepted by main conference ACL 2022. See you in Dublin.
 
 ## Publications
-* **<span style="color:blue">Instruct-SCTG: Guiding Sequential Controlled Text Generation through Instructions</span>**  
+
+<!-- * **<span style="color:blue">Unlocking Structure Measuring: Introducing PDD, an Automatic Metric for Positional Discourse Coherence</span>**  
+Under review. -->
+
+* [**<span style="color:blue">Instruct-SCTG: Guiding Sequential Controlled Text Generation through Instructions</span>**](https://arxiv.org/pdf/2312.12299.pdf)
     Yinhong Liu, Yixuan Su, Ehsan Shareghi and Nigel Collier. 
 
-* [**<span style="color:blue">Plug-and-play Recipe Generation with Content Planning</span>**](/Plug_and_Play_Recipe_Generation_with_Content_Planning.pdf)  
+* [**<span style="color:blue">Plug-and-play Recipe Generation with Content Planning</span>**](https://arxiv.org/pdf/2212.05093.pdf)  
     Yinhong Liu, Yixuan Su, Ehsan Shareghi and Nigel Collier.  
     The Conference on Empirical Methods in Natural Language Processing (EMNLP), Generation, Evaluation & Metrics (GEM) Workshop, 2022.
 
@@ -25,7 +29,7 @@ I’m a second year PhD student with Prof. Nigel Collier in Language Technology 
     Yinhong Liu and Guy Emerson. [[code](https://github.com/williamLyh/PixieVGModel)]  
     In Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL), main conference. 2022.
 
-* [**<span style="color:blue">Multi-channel audio statistical restoration</span>**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9259487)  
+* [**<span style="color:blue">Multi-channel audio statistical restoration</span>**](assets/papers/Multi-channel_audio_statistical_restoration.pdf)  
     Yinhong Liu and Simon Godsill.  
     IEEE International Conference on Signal Processing, Communications and Computing (IEEE-ICSPCC), 2020.
 
@@ -40,7 +44,7 @@ I’m a second year PhD student with Prof. Nigel Collier in Language Technology 
 
 ## Professional Service  
 * Program Committee Member/ Reviewer:  
-  ACL Rolling Review (2022), EMNLP (2022), Generation, Evaluation & Metrics (GEM) workshop 2022  
+  ACL Rolling Review (2022), EMNLP (2022, 2023), Generation, Evaluation & Metrics (GEM) workshop (2022, 2023), EACL (2023)
 * Teaching:  
   TA for Li18 Python for Computational Linguistics, 2021-2023.
 
