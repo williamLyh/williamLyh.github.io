@@ -18,11 +18,11 @@ I’m a third year PhD student with Prof. Nigel Collier in Language Technology L
 <!-- * **<span style="color:blue">Unlocking Structure Measuring: Introducing PDD, an Automatic Metric for Positional Discourse Coherence</span>**  
 Under review. -->
 
-* [**<span style="color:blue">Instruct-SCTG: Guiding Sequential Controlled Text Generation through Instructions</span>**](https://arxiv.org/pdf/2312.12299.pdf)
-    Yinhong Liu, Yixuan Su, Ehsan Shareghi and Nigel Collier. 
+* [**<span style="color:blue">Instruct-SCTG: Guiding Sequential Controlled Text Generation through Instructions</span>**](https://arxiv.org/pdf/2312.12299.pdf)  
+    Yinhong Liu, Yixuan Su, Ehsan Shareghi and Nigel Collier. [[code](https://github.com/williamLyh/InstructDiscourse)]  
 
 * [**<span style="color:blue">Plug-and-play Recipe Generation with Content Planning</span>**](https://arxiv.org/pdf/2212.05093.pdf)  
-    Yinhong Liu, Yixuan Su, Ehsan Shareghi and Nigel Collier.  
+    Yinhong Liu, Yixuan Su, Ehsan Shareghi and Nigel Collier. [[code](https://github.com/williamLyh/RecipeWithPlans)]  
     The Conference on Empirical Methods in Natural Language Processing (EMNLP), Generation, Evaluation & Metrics (GEM) Workshop, 2022.
 
 * [**<span style="color:blue">Learning Functional Distributional Semantics with Visual Data</span>**](https://arxiv.org/abs/2204.10624)[[slides](https://williamlyh.github.io/assets/img/FDS_visual_ACL2022.pdf)]  
