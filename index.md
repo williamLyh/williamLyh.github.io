@@ -14,9 +14,11 @@ I’m a third year PhD student with Prof. Nigel Collier in Language Technology L
 * <span style="color:grey">21/03/2022:</span> One paper got accepted by main conference ACL 2022. See you in Dublin.
 
 ## Publications
-
-<!-- * **<span style="color:blue">Unlocking Structure Measuring: Introducing PDD, an Automatic Metric for Positional Discourse Coherence</span>**  
-Under review. -->
+* [**<span style="color:blue">TOAD: Task-Oriented Automatic Dialogs with Diverse Response Styles</span>**](https://arxiv.org/abs/2402.10137)  
+    Yinhong Liu, Yixuan Su, Ehsan Shareghi and Nigel Collier. 
+    
+* [**<span style="color:blue">Unlocking Structure Measuring: Introducing PDD, an Automatic Metric for Positional Discourse Coherence</span>**](https://arxiv.org/abs/2402.10175)  
+    Yinhong Liu, Yixuan Su, Ehsan Shareghi and Nigel Collier. [[code](https://github.com/williamLyh/pos_div_metric)]
 
 * [**<span style="color:blue">Instruct-SCTG: Guiding Sequential Controlled Text Generation through Instructions</span>**](https://arxiv.org/pdf/2312.12299.pdf)  
     Yinhong Liu, Yixuan Su, Ehsan Shareghi and Nigel Collier. [[code](https://github.com/williamLyh/InstructDiscourse)]  
