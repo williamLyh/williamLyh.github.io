@@ -15,7 +15,7 @@ I’m a third year PhD student with Prof. Nigel Collier in Language Technology L
 
 ## Publications
 * [**<span style="color:blue">TOAD: Task-Oriented Automatic Dialogs with Diverse Response Styles</span>**](https://arxiv.org/abs/2402.10137)  
-    Yinhong Liu, Yixuan Su, Ehsan Shareghi and Nigel Collier. 
+    Yinhong Liu, Yimai Fang, David Vandyke and Nigel Collier. 
     
 * [**<span style="color:blue">Unlocking Structure Measuring: Introducing PDD, an Automatic Metric for Positional Discourse Coherence</span>**](https://arxiv.org/abs/2402.10175)  
     Yinhong Liu, Yixuan Su, Ehsan Shareghi and Nigel Collier. [[code](https://github.com/williamLyh/pos_div_metric)]
