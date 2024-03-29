@@ -7,6 +7,7 @@ I’m a third year PhD student with Prof. Nigel Collier in Language Technology L
 
 <!-- ## <span style="color:red">News!</span> -->
 ## News!
+* <span style="color:grey">03/13/2024:</span> We deployed a research paper searching website [deep-scholar](https://deep-scholar.com/). Havea try!
 * <span style="color:grey">03/13/2024:</span> One paper got accepted by **NAACL 2024**, main conference. See you in Maxico City! 
 * <span style="color:grey">09/12/2023:</span> I received the **Best Reviewer Award** from EMNLP 2023 generation track. 
 * <span style="color:grey">01/06/2023:</span> I am interning at Apple AI/ML this summer. 
