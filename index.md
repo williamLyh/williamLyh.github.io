@@ -7,6 +7,7 @@ I’m a third year PhD student with Prof. Nigel Collier in Language Technology L
 
 <!-- ## <span style="color:red">News!</span> -->
 ## News!
+* <span style="color:grey">05/16/2024:</span> One paper got accepted by **ACL 2024**. See you in Bangkok! 
 * <span style="color:grey">03/13/2024:</span> We deployed a research paper searching website [deep-scholar](https://deep-scholar.com/). Havea try!
 * <span style="color:grey">03/13/2024:</span> One paper got accepted by **NAACL 2024**, main conference. See you in Maxico City! 
 * <span style="color:grey">09/12/2023:</span> I received the **Best Reviewer Award** from EMNLP 2023 generation track. 
@@ -20,11 +21,12 @@ I’m a third year PhD student with Prof. Nigel Collier in Language Technology L
     Yinhong Liu*, Han Zhou*, Zhijiang Guo, Ehsan Shareghi, Ivan Vuli´c, Anna Korhonen and Nigel Collier. 
 
 * [**<span style="color:blue">TOAD: Task-Oriented Automatic Dialogs with Diverse Response Styles</span>**](https://arxiv.org/abs/2402.10137)  
-    Yinhong Liu, Yimai Fang, David Vandyke and Nigel Collier. 
+    Yinhong Liu, Yimai Fang, David Vandyke and Nigel Collier.  
+    **ACL, findings, 2024**.
     
 * [**<span style="color:blue">Unlocking Structure Measuring: Introducing PDD, an Automatic Metric for Positional Discourse Coherence</span>**](https://arxiv.org/abs/2402.10175)  
     Yinhong Liu, Yixuan Su, Ehsan Shareghi and Nigel Collier. [[code](https://github.com/williamLyh/pos_div_metric)]  
-    **NAACL, main conference. 2024**.
+    **NAACL, main conference, 2024**.
 
 * [**<span style="color:blue">Instruct-SCTG: Guiding Sequential Controlled Text Generation through Instructions</span>**](https://arxiv.org/pdf/2312.12299.pdf)  
     Yinhong Liu, Yixuan Su, Ehsan Shareghi and Nigel Collier. [[code](https://github.com/williamLyh/InstructDiscourse)]  
