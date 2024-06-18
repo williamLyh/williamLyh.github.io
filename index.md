@@ -3,10 +3,11 @@ layout: default
 ---
 
 ## Bio
-I’m a third year PhD student with Prof. Nigel Collier in Language Technology Lab, University of Cambridge. My research focus is in NLP and LLM, especially in LLM evaluation, Controlled Text Generation, Generation with Discourse structure, Task-oriented Dialog, Data Synthesis for aligning LLM.
+I’m a third year PhD student with Prof. Nigel Collier in Language Technology Lab, University of Cambridge. My research focus is in NLP and LLM, especially in LLM-as-judge (LLM evaluator), Controlled Text Generation, Generation with Discourse structure, Task-oriented Dialog, Data Synthesis for aligning LLM.
 
 <!-- ## <span style="color:red">News!</span> -->
 ## News!
+* <span style="color:grey">03/06/2024:</span> I will be interning at Microsoft Research Cambridge. 
 * <span style="color:grey">05/16/2024:</span> One paper got accepted by **ACL 2024**. See you in Bangkok! 
 * <span style="color:grey">03/13/2024:</span> We deployed a research paper searching website [deep-scholar](https://deep-scholar.com/). Havea try!
 * <span style="color:grey">03/13/2024:</span> One paper got accepted by **NAACL 2024**, main conference. See you in Maxico City! 
@@ -17,6 +18,9 @@ I’m a third year PhD student with Prof. Nigel Collier in Language Technology L
 * <span style="color:grey">21/03/2022:</span> One paper got accepted by **ACL 2022**, main conference. See you in Dublin.
 
 ## Publications
+* [**<span style="color:blue">Fairer Preferences Elicit Improved Human-Aligned Large Language Model Judgments</span>**](https://arxiv.org/abs/2406.11370)  
+    Han Zhou, Xingchen Wan, Yinhong Liu, Nigel Collier, Ivan Vulić, Anna Korhonen
+
 * [**<span style="color:blue">Aligning with Human Judgement: The Role of Pairwise Preference in Large Language Model Evaluators</span>**](https://arxiv.org/pdf/2403.16950.pdf)  
     Yinhong Liu*, Han Zhou*, Zhijiang Guo, Ehsan Shareghi, Ivan Vuli´c, Anna Korhonen and Nigel Collier. 
 
@@ -41,7 +45,7 @@ I’m a third year PhD student with Prof. Nigel Collier in Language Technology L
 
 * [**<span style="color:blue">Multi-channel audio statistical restoration</span>**](assets/papers/Multi-channel_audio_statistical_restoration.pdf)  
     Yinhong Liu and Simon Godsill.  
-    IEEE International Conference on Signal Processing, Communications and Computing (IEEE-ICSPCC), 2020.
+    **IEEE International Conference on Signal Processing, Communications and Computing (IEEE-ICSPCC), 2020**.
 
 ## Education
 * <span style="color:blue">University of Cambridge</span>, 2021-present   
