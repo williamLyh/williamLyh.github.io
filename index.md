@@ -8,9 +8,9 @@ I’m a third year PhD student with Prof. Nigel Collier in Language Technology L
 <!-- ## <span style="color:red">News!</span> -->
 ## News!
 * <span style="color:grey">03/06/2024:</span> I will be interning at Microsoft Research Cambridge. 
-* <span style="color:grey">05/16/2024:</span> One paper got accepted by **ACL 2024**. See you in Bangkok! 
-* <span style="color:grey">03/13/2024:</span> We deployed a research paper searching website [deep-scholar](https://deep-scholar.com/). Havea try!
-* <span style="color:grey">03/13/2024:</span> One paper got accepted by **NAACL 2024**, main conference. See you in Maxico City! 
+* <span style="color:grey">16/05/2024:</span> One paper got accepted by **ACL 2024**. See you in Bangkok! 
+* <span style="color:grey">13/03/2024:</span> We deployed a research paper searching website [deep-scholar](https://deep-scholar.com/). Havea try!
+* <span style="color:grey">13/03/2024:</span> One paper got accepted by **NAACL 2024**, main conference. See you in Maxico City! 
 * <span style="color:grey">09/12/2023:</span> I received the **Best Reviewer Award** from EMNLP 2023 generation track. 
 * <span style="color:grey">01/06/2023:</span> I am interning at Apple AI/ML this summer. 
 * <span style="color:grey">03/11/2022:</span> Going to present the paper *Learning Functional Distributional Semantics with Visual Data* on Cambridge Language Sciences Annual Symposium 2022.
@@ -18,11 +18,14 @@ I’m a third year PhD student with Prof. Nigel Collier in Language Technology L
 * <span style="color:grey">21/03/2022:</span> One paper got accepted by **ACL 2022**, main conference. See you in Dublin.
 
 ## Publications
+* [**<span style="color:blue">MR-BEN: A Comprehensive Meta-Reasoning Benchmark for Large Language Models</span>**](https://arxiv.org/abs/2406.13975)  
+    Zhongshen Zeng, Yinhong Liu, el al.
+
 * [**<span style="color:blue">Fairer Preferences Elicit Improved Human-Aligned Large Language Model Judgments</span>**](https://arxiv.org/abs/2406.11370)  
     Han Zhou, Xingchen Wan, Yinhong Liu, Nigel Collier, Ivan Vulić, Anna Korhonen
 
 * [**<span style="color:blue">Aligning with Human Judgement: The Role of Pairwise Preference in Large Language Model Evaluators</span>**](https://arxiv.org/pdf/2403.16950.pdf)  
-    Yinhong Liu*, Han Zhou*, Zhijiang Guo, Ehsan Shareghi, Ivan Vuli´c, Anna Korhonen and Nigel Collier. 
+    Yinhong Liu\*, Han Zhou\*, Zhijiang Guo, Ehsan Shareghi, Ivan Vuli´c, Anna Korhonen and Nigel Collier. 
 
 * [**<span style="color:blue">TOAD: Task-Oriented Automatic Dialogs with Diverse Response Styles</span>**](https://arxiv.org/abs/2402.10137)  
     Yinhong Liu, Yimai Fang, David Vandyke and Nigel Collier.  
