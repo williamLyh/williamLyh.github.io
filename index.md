@@ -27,7 +27,7 @@ I’m a third year PhD student with Prof. Nigel Collier in Language Technology L
     Yinhong Liu, Yimai Fang, David Vandyke and Nigel Collier.  
     **ACL, findings, 2024**.
 
-* [**<span style="color:blue">Fairer Preferences Elicit Improved Human-Aligned Large Language Model Judgments</span>**](https://arxiv.org/abs/2406.11370)  
+* [**<span style="color:blue">Fairer Preferences Elicit Improved Human-Aligned Large Language Model Judgments</span>**](https://arxiv.org/abs/2406.11370)  [[code](https://github.com/cambridgeltl/zepo)]
     Han Zhou, Xingchen Wan, <u>Yinhong Liu</u>, Nigel Collier, Ivan Vulić, Anna Korhonen
 
 * [**<span style="color:blue">MR-BEN: A Comprehensive Meta-Reasoning Benchmark for Large Language Models</span>**](https://arxiv.org/abs/2406.13975)  [[code](https://github.com/dvlab-research/Mr-Ben)]
