@@ -23,7 +23,7 @@ I’m a third year PhD student with Prof. Nigel Collier in Language Technology L
     Yinhong Liu\*, Han Zhou\*, Zhijiang Guo, Ehsan Shareghi, Ivan Vuli´c, Anna Korhonen and Nigel Collier. [[code](https://github.com/cambridgeltl/PairS)]   
     **COLM, 2024**. 
 
-* [**<span style="color:blue">TOAD: Task-Oriented Automatic Dialogs with Diverse Response Styles</span>**](https://arxiv.org/abs/2402.10137)  
+* [**<span style="color:blue">TOAD: Task-Oriented Automatic Dialogs with Diverse Response Styles</span>**](https://arxiv.org/abs/2402.10137) [[Apple website](https://machinelearning.apple.com/research/toad)]  
     Yinhong Liu, Yimai Fang, David Vandyke and Nigel Collier.  
     **ACL, findings, 2024**.
 
