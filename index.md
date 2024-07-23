@@ -23,15 +23,15 @@ I’m a third year PhD student with Prof. Nigel Collier in Language Technology L
     Yinhong Liu\*, Han Zhou\*, Zhijiang Guo, Ehsan Shareghi, Ivan Vuli´c, Anna Korhonen and Nigel Collier. [[code](https://github.com/cambridgeltl/PairS)]   
     **COLM, 2024**. 
 
-* [**<span style="color:blue">TOAD: Task-Oriented Automatic Dialogs with Diverse Response Styles</span>**](https://arxiv.org/abs/2402.10137)  
+* [**<span style="color:blue">TOAD: Task-Oriented Automatic Dialogs with Diverse Response Styles</span>**](https://arxiv.org/abs/2402.10137) [[Apple website](https://machinelearning.apple.com/research/toad)]  
     Yinhong Liu, Yimai Fang, David Vandyke and Nigel Collier.  
     **ACL, findings, 2024**.
 
 * [**<span style="color:blue">Fairer Preferences Elicit Improved Human-Aligned Large Language Model Judgments</span>**](https://arxiv.org/abs/2406.11370)  
-    Han Zhou, Xingchen Wan, <u>Yinhong Liu</u>, Nigel Collier, Ivan Vulić, Anna Korhonen
+    Han Zhou, Xingchen Wan, <u>Yinhong Liu</u>, Nigel Collier, Ivan Vulić, Anna Korhonen [[code](https://github.com/cambridgeltl/zepo)]
 
 * [**<span style="color:blue">MR-BEN: A Comprehensive Meta-Reasoning Benchmark for Large Language Models</span>**](https://arxiv.org/abs/2406.13975)  
-    Zhongshen Zeng, <u>Yinhong Liu</u>, Yingjia Wan, Jingyao Li, et al.
+    Zhongshen Zeng, <u>Yinhong Liu</u>, Yingjia Wan, Jingyao Li, et al. [[code](https://github.com/dvlab-research/Mr-Ben)]
 
 * [**<span style="color:blue">Unlocking Structure Measuring: Introducing PDD, an Automatic Metric for Positional Discourse Coherence</span>**](https://arxiv.org/abs/2402.10175)  
     Yinhong Liu, Yixuan Su, Ehsan Shareghi and Nigel Collier. [[code](https://github.com/williamLyh/pos_div_metric)]  
