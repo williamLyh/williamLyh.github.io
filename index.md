@@ -64,7 +64,7 @@ I’m a third year PhD student with Prof. Nigel Collier in Language Technology L
 
 ## Professional Service  
 * Program Committee Member/ Reviewer:  
-  ACL Rolling Review (2022), EMNLP (2022, 2023), Generation, Evaluation & Metrics (GEM) workshop (2022, 2023), EACL (2023)
+  ACL Rolling Review (2022-2024), ACL (2023-2024), NAACL (2023-2024) EMNLP (2022-2024), Generation, Evaluation & Metrics (GEM) workshop (2022, 2023), EACL (2023)
 * Teaching:  
   TA for Li18 Python for Computational Linguistics, 2021-2023.
 
