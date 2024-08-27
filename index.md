@@ -24,7 +24,7 @@ I’m a third year PhD student with Prof. Nigel Collier in Language Technology L
     **COLM, 2024**. 
 
 * [**<span style="color:blue">TOAD: Task-Oriented Automatic Dialogs with Diverse Response Styles</span>**](https://arxiv.org/abs/2402.10137) [[Apple website](https://machinelearning.apple.com/research/toad)] [[Poster](assets/img/TOAD_Poster_ACL2024.pdf)]  
-    Yinhong Liu, Yimai Fang, David Vandyke and Nigel Collier.  
+    Yinhong Liu, Yimai Fang, David Vandyke and Nigel Collier. [[code](https://github.com/apple/ml-toad)]  
     **ACL, findings, 2024**.
 
 * [**<span style="color:blue">Fairer Preferences Elicit Improved Human-Aligned Large Language Model Judgments</span>**](https://arxiv.org/abs/2406.11370)  
