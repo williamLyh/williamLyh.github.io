@@ -13,7 +13,7 @@ I’m a third year PhD student with Prof. Nigel Collier in Language Technology L
 * <span style="color:grey">13/03/2024:</span> We deployed a research paper searching website [deep-scholar](https://deep-scholar.com/). Havea try!
 * <span style="color:grey">13/03/2024:</span> One paper got accepted by **NAACL 2024**, main conference. See you in Maxico City! 
 * <span style="color:grey">09/12/2023:</span> I received the **Best Reviewer** Award from EMNLP 2023 generation track. 
-* <span style="color:grey">01/06/2023:</span> I am interning at **Apple AI/ML** this summer. 
+* <span style="color:grey">01/06/2023:</span> I am interning at [[**Apple AI/ML**](assets/img/best_reviewer.jpg)] this summer. 
 * <span style="color:grey">03/11/2022:</span> Going to present the paper *Learning Functional Distributional Semantics with Visual Data* on Cambridge Language Sciences Annual Symposium 2022.
 * <span style="color:grey">25/10/2022:</span> One paper got accepted by GEM workshop in **EMNLP 2022**.
 * <span style="color:grey">21/03/2022:</span> One paper got accepted by **ACL 2022**, main conference. See you in Dublin.
