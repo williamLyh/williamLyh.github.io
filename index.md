@@ -7,6 +7,7 @@ I’m a third year PhD student with Prof. Nigel Collier in Language Technology L
 
 <!-- ## <span style="color:red">News!</span> -->
 ## News!
+* <span style="color:grey">26/09/2024:</span> One paper got accepted by **NIPS 2024**. Great thanks to all the collaborators.
 * <span style="color:grey">21/09/2024:</span> One paper got accepted by **EMNLP 2024**. 
 * <span style="color:grey">10/07/2024:</span> One paper got accepted by **COLM 2024**. See you in Philadelphia. 
 * <span style="color:grey">03/06/2024:</span> I will be interning at **Microsoft Research** Cambridge. 
@@ -33,7 +34,8 @@ I’m a third year PhD student with Prof. Nigel Collier in Language Technology L
     **EMNLP, main, 2024**.
 
 * [**<span style="color:blue">MR-BEN: A Comprehensive Meta-Reasoning Benchmark for Large Language Models</span>**](https://arxiv.org/abs/2406.13975)  
-    Zhongshen Zeng, <u>Yinhong Liu</u>, Yingjia Wan, Jingyao Li, et al. [[code](https://github.com/dvlab-research/Mr-Ben)]
+    Zhongshen Zeng, <u>Yinhong Liu</u>, Yingjia Wan, Jingyao Li, et al. [[code](https://github.com/dvlab-research/Mr-Ben)]  
+    **NIPS, 2024**.
 
 * [**<span style="color:blue">Unlocking Structure Measuring: Introducing PDD, an Automatic Metric for Positional Discourse Coherence</span>**](https://arxiv.org/abs/2402.10175)  
     Yinhong Liu, Yixuan Su, Ehsan Shareghi and Nigel Collier. [[code](https://github.com/williamLyh/pos_div_metric)]  
