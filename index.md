@@ -21,6 +21,10 @@ I’m a third year PhD student with Prof. Nigel Collier in Language Technology L
 * <span style="color:grey">21/03/2022:</span> One paper got accepted by **ACL 2022**, main conference. See you in Dublin.
 
 ## Featured publications
+* [**<span style="color:blue">Measuring, Evaluating and Improving Logical Consistency in Large Language Models</span>**](https://arxiv.org/abs/2410.02205)  
+    Yinhong Liu, Zhijiang Guo, Tianya Liang, Ehsan Shareghi, Ivan Vuli´c and Nigel Collier.  
+    Under review.
+
 * [**<span style="color:blue">Aligning with Human Judgement: The Role of Pairwise Preference in Large Language Model Evaluators</span>**](https://arxiv.org/pdf/2403.16950.pdf)  
     Yinhong Liu\*, Han Zhou\*, Zhijiang Guo, Ehsan Shareghi, Ivan Vuli´c, Anna Korhonen and Nigel Collier. [[code](https://github.com/cambridgeltl/PairS)]   
     **COLM, 2024**. 
@@ -68,7 +72,7 @@ I’m a third year PhD student with Prof. Nigel Collier in Language Technology L
 
 ## Professional Service  
 * Program Committee Member/ Reviewer:  
-  ACL Rolling Review (2022-2024), ACL (2023-2024), NAACL (2023-2024) EMNLP (2022-2024), Generation, Evaluation & Metrics (GEM) workshop (2022, 2023), EACL (2023)
+  ACL Rolling Review (2022-2024), ACL (2023-2024), NAACL (2023-2024) EMNLP (2022-2024), Generation, Evaluation & Metrics (GEM) workshop (2022-2023), EACL (2023)
 * Teaching:  
   TA for Li18 Python for Computational Linguistics, 2021-2023.
 
