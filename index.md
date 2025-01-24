@@ -7,6 +7,7 @@ I’m a third year PhD student with Prof. Nigel Collier in Language Technology L
 
 <!-- ## <span style="color:red">News!</span> -->
 ## News!
+* <span style="color:grey">24/01/2025:</span> One paper got accepted by **NAACL 2025**. 
 * <span style="color:grey">26/09/2024:</span> One paper got accepted by **NIPS 2024**. Great thanks to all the collaborators.
 * <span style="color:grey">21/09/2024:</span> One paper got accepted by **EMNLP 2024**. 
 * <span style="color:grey">10/07/2024:</span> One paper got accepted by **COLM 2024**. See you in Philadelphia. 
@@ -31,7 +32,7 @@ I’m a third year PhD student with Prof. Nigel Collier in Language Technology L
 
 * [**<span style="color:blue">Prompt Compression for Large Language Models: A Survey</span>**](https://arxiv.org/abs/2410.12388)  
     Zongqian Li\*, Yinhong Liu\*, Yixuan Su and Nigel Collier.  
-    Under review.
+    **NAACL, main, 2024**.
 
 * [**<span style="color:blue">TOAD: Task-Oriented Automatic Dialogs with Diverse Response Styles</span>**](https://arxiv.org/abs/2402.10137) [[Apple website](https://machinelearning.apple.com/research/toad)] [[Poster](assets/img/TOAD_Poster_ACL2024.pdf)]  
     Yinhong Liu, Yimai Fang, David Vandyke and Nigel Collier. [[code](https://github.com/apple/ml-toad)]  
@@ -75,8 +76,8 @@ I’m a third year PhD student with Prof. Nigel Collier in Language Technology L
 
 
 ## Professional Service  
-* Program Committee Member/ Reviewer:  
-  ACL Rolling Review (2022-2024), ACL (2023-2024), NAACL (2023-2024) EMNLP (2022-2024), Generation, Evaluation & Metrics (GEM) workshop (2022-2023), EACL (2023)
+* Program Committee Member/ Reviewer:
+  ICLR (2024-2025), ACL Rolling Review (2022-2024), ACL (2023-2024), NAACL (2023-2024), EMNLP (2022-2024), Generation, Evaluation & Metrics (GEM) workshop (2022-2023), EACL (2023)
 * Teaching:  
   TA for Li18 Python for Computational Linguistics, 2021-2023.
 
