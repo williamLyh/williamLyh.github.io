@@ -7,7 +7,7 @@ I’m a third year PhD student with Prof. Nigel Collier in Language Technology L
 
 <!-- ## <span style="color:red">News!</span> -->
 ## News!
-* <span style="color:grey">31/01/2025:</span> I will be interning at **Ai2** Seattle this summer. 
+<!-- * <span style="color:grey">31/01/2025:</span> I will be interning at **Ai2** Seattle this summer.  -->
 * <span style="color:grey">24/01/2025:</span> One paper got accepted by **NAACL 2025**. 
 * <span style="color:grey">26/09/2024:</span> One paper got accepted by **NIPS 2024**. Great thanks to all the collaborators.
 * <span style="color:grey">21/09/2024:</span> One paper got accepted by **EMNLP 2024**. 
