@@ -3,7 +3,9 @@ layout: default
 ---
 
 ## Bio
-I’m a third year PhD student with Prof. Nigel Collier in Language Technology Lab, University of Cambridge. My research focus is in NLP and LLM, especially in LLM-as-judge (LLM evaluator), Controlled Text Generation, Generation with Discourse structure, Task-oriented Dialog, Data Synthesis for aligning LLM.
+I am a fourth-year PhD student in the Language Technology Lab at the University of Cambridge, working under the supervision of Prof. Nigel Collier. My research focuses on Natural Language Processing (NLP) and Large Language Models (LLMs), with a particular interest in post-training techniques (including preference modeling, alignment, and calibration), evaluation, and data synthesis.
+
+If you are interested in discussing research or potential collaborations, feel free to reach out via email.
 
 <!-- ## <span style="color:red">News!</span> -->
 ## News!
