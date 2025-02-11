@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## Bio
-I’m a third year PhD student with Prof. Nigel Collier in Language Technology Lab, University of Cambridge. My research focus is in NLP and LLM, especially in LLM-as-judge (LLM evaluator), Controlled Text Generation, Generation with Discourse structure, Task-oriented Dialog, Data Synthesis for aligning LLM.
+I’m a fourth year PhD student with Prof. Nigel Collier in Language Technology Lab, University of Cambridge. My research focus is in NLP and LLM, especially in LLM-as-judge (LLM evaluator), Controlled Text Generation, Generation with Discourse structure, Task-oriented Dialog, Data Synthesis for aligning LLM.
 
 <!-- ## <span style="color:red">News!</span> -->
 ## News!
@@ -23,7 +23,7 @@ I’m a third year PhD student with Prof. Nigel Collier in Language Technology L
 * <span style="color:grey">21/03/2022:</span> One paper got accepted by **ACL 2022**, main conference. See you in Dublin.
 
 ## Featured publications
-* [**<span style="color:blue">Aligning with Logic: Measuring, Evaluating and Improving Logical Consistency in Large Language Models</span>**](https://arxiv.org/abs/2410.02205)  
+* [**<span style="color:blue">Aligning with Logic: Measuring, Evaluating and Improving Logical Preference Consistency in Large Language Models</span>**](https://arxiv.org/abs/2410.02205)  
     Yinhong Liu, Zhijiang Guo, Tianya Liang, Ehsan Shareghi, Ivan Vuli´c and Nigel Collier.  
     Under review.
 
