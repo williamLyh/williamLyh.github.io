@@ -33,9 +33,21 @@ If you are interested in discussing research or potential collaborations, feel f
     Yinhong Liu\*, Han Zhou\*, Zhijiang Guo, Ehsan Shareghi, Ivan Vuli´c, Anna Korhonen and Nigel Collier. [[code](https://github.com/cambridgeltl/PairS)]   
     **COLM, 2024**. 
 
+* [**<span style="color:blue">Improving Preference Extraction In LLMs By Identifying Latent Knowledge Through Classifying Probes</span>**]()  
+    Sharan Maiya, <U>Yinhong Liu</u>, Ramit Debnath and Anna Korhonen  
+    Under review.
+
+* [**<span style="color:blue">GraphCheck: Breaking Long-Term Text Barriers with Extracted Knowledge Graph-Powered Fact-Checking</span>**](https://www.arxiv.org/abs/2502.16514)  
+    Yingjian Chen, Haoran Liu, <u>Yinhong Liu</u>, Rui Yang, Han Yuan, Yanran Fu, Pengyuan Zhou, Qingyu Chen, James Caverlee and Irene Li  
+    Under review.  
+
+* [**<span style="color:blue">When Personalization Meets Reality: A Multi-Faceted Analysis of Personalized Preference Learning</span>**](https://arxiv.org/abs/2502.19158)  
+    Yijiang River Dong, Tiancheng Hu, <u>Yinhong Liu</u>, Ahmet &Uuml;st&uuml;n and Nigel Collier  
+    Under review.  
+
 * [**<span style="color:blue">Prompt Compression for Large Language Models: A Survey</span>**](https://arxiv.org/abs/2410.12388)  
     Zongqian Li\*, Yinhong Liu\*, Yixuan Su and Nigel Collier.  
-    **NAACL, main, 2025**.
+    **NAACL, main, 2025**.  
 
 * [**<span style="color:blue">TOAD: Task-Oriented Automatic Dialogs with Diverse Response Styles</span>**](https://arxiv.org/abs/2402.10137) [[Apple website](https://machinelearning.apple.com/research/toad)] [[Poster](assets/img/TOAD_Poster_ACL2024.pdf)]  
     Yinhong Liu, Yimai Fang, David Vandyke and Nigel Collier. [[code](https://github.com/apple/ml-toad)]  
