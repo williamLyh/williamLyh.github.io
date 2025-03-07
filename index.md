@@ -7,6 +7,10 @@ I am a fourth-year PhD student in the Language Technology Lab at the University 
 
 If you are interested in discussing research or potential collaborations, feel free to reach out via email.
 
+「人生到處知何似，應似飛鴻踏雪泥。」
+
+
+
 <!-- ## <span style="color:red">News!</span> -->
 ## News!
 <!-- * <span style="color:grey">31/01/2025:</span> I will be interning at **Ai2** Seattle this summer.  -->
