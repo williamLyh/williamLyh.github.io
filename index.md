@@ -14,7 +14,7 @@ If you are interested in discussing research or potential collaborations, feel f
 <!-- ## <span style="color:red">News!</span> -->
 ## News!
 <!-- * <span style="color:grey">31/01/2025:</span> I will be interning at **Ai2** Seattle this summer.  -->
-* <span style="color:grey">01/05/2025:</span> One paper got accepted by **ICML 2025** as a **Spotlight poster**. See you in Vancouver.
+* <span style="color:grey">01/05/2025:</span> One paper got accepted by **ICML 2025** as a **Spotlight** paper. See you in Vancouver.
 * <span style="color:grey">24/01/2025:</span> One paper got accepted by **NAACL 2025**. 
 * <span style="color:grey">26/09/2024:</span> One paper got accepted by **NIPS 2024**. Great thanks to all the collaborators.
 * <span style="color:grey">21/09/2024:</span> One paper got accepted by **EMNLP 2024**. 
