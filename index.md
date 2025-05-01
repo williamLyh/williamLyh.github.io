@@ -14,6 +14,7 @@ If you are interested in discussing research or potential collaborations, feel f
 <!-- ## <span style="color:red">News!</span> -->
 ## News!
 <!-- * <span style="color:grey">31/01/2025:</span> I will be interning at **Ai2** Seattle this summer.  -->
+* <span style="color:grey">24/01/2025:</span> One paper got accepted by **ICML 2025** as a **Spotlight poster**. See you in Vancouver.
 * <span style="color:grey">24/01/2025:</span> One paper got accepted by **NAACL 2025**. 
 * <span style="color:grey">26/09/2024:</span> One paper got accepted by **NIPS 2024**. Great thanks to all the collaborators.
 * <span style="color:grey">21/09/2024:</span> One paper got accepted by **EMNLP 2024**. 
@@ -31,7 +32,7 @@ If you are interested in discussing research or potential collaborations, feel f
 ## Featured publications
 * [**<span style="color:blue">Aligning with Logic: Measuring, Evaluating and Improving Logical Preference Consistency in Large Language Models</span>**](https://arxiv.org/abs/2410.02205)  
     Yinhong Liu, Zhijiang Guo, Tianya Liang, Ehsan Shareghi, Ivan Vuli´c and Nigel Collier.  
-    Under review.
+    **ICML, Spotlight, 2025**.
 
 * [**<span style="color:blue">Aligning with Human Judgement: The Role of Pairwise Preference in Large Language Model Evaluators</span>**](https://arxiv.org/pdf/2403.16950.pdf)  
     Yinhong Liu\*, Han Zhou\*, Zhijiang Guo, Ehsan Shareghi, Ivan Vuli´c, Anna Korhonen and Nigel Collier. [[code](https://github.com/cambridgeltl/PairS)]   
