@@ -14,6 +14,7 @@ If you are interested in discussing research or potential collaborations, feel f
 <!-- ## <span style="color:red">News!</span> -->
 ## News!
 <!-- * <span style="color:grey">31/01/2025:</span> I will be interning at **Ai2** Seattle this summer.  -->
+* <span style="color:grey">16/05/2025:</span> Two paper got accepted by **ACL 2025, main conference**.
 * <span style="color:grey">01/05/2025:</span> One paper got accepted by **ICML 2025** as a **Spotlight** paper. See you in Vancouver.
 * <span style="color:grey">24/01/2025:</span> One paper got accepted by **NAACL 2025**. 
 * <span style="color:grey">26/09/2024:</span> One paper got accepted by **NIPS 2024**. Great thanks to all the collaborators.
@@ -38,13 +39,13 @@ If you are interested in discussing research or potential collaborations, feel f
     Yinhong Liu\*, Han Zhou\*, Zhijiang Guo, Ehsan Shareghi, Ivan Vuli´c, Anna Korhonen and Nigel Collier. [[code](https://github.com/cambridgeltl/PairS)]   
     **COLM, 2024**. 
 
-* [**<span style="color:blue">Improving Preference Extraction In LLMs By Identifying Latent Knowledge Through Classifying Probes</span>**]()  
+* [**<span style="color:blue">Improving Preference Extraction In LLMs By Identifying Latent Knowledge Through Classifying Probes</span>**](https://arxiv.org/abs/2503.17755)  
     Sharan Maiya, <U>Yinhong Liu</u>, Ramit Debnath and Anna Korhonen  
-    Under review.
+    **ACL 2025, main**.
 
 * [**<span style="color:blue">GraphCheck: Breaking Long-Term Text Barriers with Extracted Knowledge Graph-Powered Fact-Checking</span>**](https://www.arxiv.org/abs/2502.16514)  
     Yingjian Chen, Haoran Liu, <u>Yinhong Liu</u>, Rui Yang, Han Yuan, Yanran Fu, Pengyuan Zhou, Qingyu Chen, James Caverlee and Irene Li  
-    Under review.  
+    **ACL 2025, main**.  
 
 * [**<span style="color:blue">When Personalization Meets Reality: A Multi-Faceted Analysis of Personalized Preference Learning</span>**](https://arxiv.org/abs/2502.19158)  
     Yijiang River Dong, Tiancheng Hu, <u>Yinhong Liu</u>, Ahmet &Uuml;st&uuml;n and Nigel Collier  
