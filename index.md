@@ -14,6 +14,7 @@ If you are interested in discussing research or potential collaborations, feel f
 <!-- ## <span style="color:red">News!</span> -->
 ## News!
 <!-- * <span style="color:grey">31/01/2025:</span> I will be interning at **Ai2** Seattle this summer.  -->
+* <span style="color:grey">26/08/2025:</span> Three paper got accepted by **EMNLP 2025**. See you in Suzhou!
 * <span style="color:grey">16/05/2025:</span> Two paper got accepted by **ACL 2025, main conference**.
 * <span style="color:grey">01/05/2025:</span> One paper got accepted by **ICML 2025** as a **Spotlight** paper. See you in Vancouver.
 * <span style="color:grey">24/01/2025:</span> One paper got accepted by **NAACL 2025**. 
@@ -47,9 +48,21 @@ If you are interested in discussing research or potential collaborations, feel f
     Yingjian Chen, Haoran Liu, <u>Yinhong Liu</u>, Rui Yang, Han Yuan, Yanran Fu, Pengyuan Zhou, Qingyu Chen, James Caverlee and Irene Li  
     **ACL 2025, main**.  
 
+* [**<span style="color:blue">MDSEval: A Meta-Evaluation Benchmark for Multimodal Dialogue Summarization.</span>**]()  
+    <u>Yinhong Liu</u>, Jianfeng He, et al,  Hang Su and Saab Mansour  
+    **EMNLP 2025**.  
+
+* [**<span style="color:blue">Dial HEALTHDIAL for Advice: A Multilingual and Multi-Parallel Spoken Dialogue Dataset for Evidence-Based Public Health Communication.</span>**]()  
+    Songbo Hu\*, <u>Yinhong Liu</u>\*, Yijie Zhou\*, et al, Ivan Vulić\*\* and Anna Korhonen\*\*.  
+    **EMNLP 2025**.  
+
 * [**<span style="color:blue">When Personalization Meets Reality: A Multi-Faceted Analysis of Personalized Preference Learning</span>**](https://arxiv.org/abs/2502.19158)  
     Yijiang River Dong, Tiancheng Hu, <u>Yinhong Liu</u>, Ahmet &Uuml;st&uuml;n and Nigel Collier  
-    Under review.  
+    **EMNLP 2025**.  
+
+* [**<span style="color:blue">FASTFACT: Faster, Stronger Long-Form Factuality Evaluations in LLMs</span>**]()  
+    Yingjia Wan, Haochen Tan, $\cdots$, <u>Yinhong Liu</u>\* and Zhijiang Guo\*  
+    **EMNLP 2025**.  
 
 * [**<span style="color:blue">TOAD: Task-Oriented Automatic Dialogs with Diverse Response Styles</span>**](https://arxiv.org/abs/2402.10137) [[Apple website](https://machinelearning.apple.com/research/toad)] [[Poster](assets/img/TOAD_Poster_ACL2024.pdf)]  
     Yinhong Liu, Yimai Fang, David Vandyke and Nigel Collier. [[code](https://github.com/apple/ml-toad)]  
