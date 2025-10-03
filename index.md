@@ -36,7 +36,7 @@ If you are interested in discussing research or potential collaborations, feel f
     Yinhong Liu, Zhijiang Guo, Tianya Liang, Ehsan Shareghi, Ivan Vuli´c and Nigel Collier.  
     **ICML, Spotlight, 2025**.
 
-* [**<span style="color:blue">Aligning with Human Judgement: The Role of Pairwise Preference in Large Language Model Evaluators</span>**](https://arxiv.org/pdf/2403.16950.pdf)  
+* [**<span style="color:blue">Aligning with Human Judgement: The Role of Pairwise Preference in Large Language Model Evaluators</span>**](https://arxiv.org/abs/2403.16950.pdf)  
     Yinhong Liu\*, Han Zhou\*, Zhijiang Guo, Ehsan Shareghi, Ivan Vuli´c, Anna Korhonen and Nigel Collier. [[code](https://github.com/cambridgeltl/PairS)]   
     **COLM, 2024**. 
 
@@ -48,13 +48,13 @@ If you are interested in discussing research or potential collaborations, feel f
     Yingjian Chen, Haoran Liu, <u>Yinhong Liu</u>, Rui Yang, Han Yuan, Yanran Fu, Pengyuan Zhou, Qingyu Chen, James Caverlee and Irene Li  
     **ACL 2025, main**.  
 
-* [**<span style="color:blue">MDSEval: A Meta-Evaluation Benchmark for Multimodal Dialogue Summarization.</span>**]()  
+* [**<span style="color:blue">MDSEval: A Meta-Evaluation Benchmark for Multimodal Dialogue Summarization.</span>**](https://arxiv.org/abs/2510.01659)  
     <u>Yinhong Liu</u>, Jianfeng He, et al,  Hang Su and Saab Mansour  
     **EMNLP 2025**.  
 
 * [**<span style="color:blue">Dial HEALTHDIAL for Advice: A Multilingual and Multi-Parallel Spoken Dialogue Dataset for Evidence-Based Public Health Communication.</span>**]()  
     Songbo Hu\*, <u>Yinhong Liu</u>\*, Yijie Zhou\*, et al, Ivan Vulić\*\* and Anna Korhonen\*\*.  
-    **EMNLP 2025**.  
+    **Under Review**.  
 
 * [**<span style="color:blue">When Personalization Meets Reality: A Multi-Faceted Analysis of Personalized Preference Learning</span>**](https://arxiv.org/abs/2502.19158)  
     Yijiang River Dong, Tiancheng Hu, <u>Yinhong Liu</u>, Ahmet &Uuml;st&uuml;n and Nigel Collier  
