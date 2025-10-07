@@ -48,7 +48,7 @@ If you are interested in discussing research or potential collaborations, feel f
     Yingjian Chen, Haoran Liu, <u>Yinhong Liu</u>, Rui Yang, Han Yuan, Yanran Fu, Pengyuan Zhou, Qingyu Chen, James Caverlee and Irene Li  
     **ACL 2025, main**.  
 
-* [**<span style="color:blue">MDSEval: A Meta-Evaluation Benchmark for Multimodal Dialogue Summarization.</span>**](https://arxiv.org/abs/2510.01659)  
+* [**<span style="color:blue">MDSEval: A Meta-Evaluation Benchmark for Multimodal Dialogue Summarization.</span>**](https://arxiv.org/abs/2510.01659)[Images link](https://drive.google.com/drive/folders/1BHoTvIccgk56Q9vLCmuz8KtE6UbwB1X2?usp=drive_link)  
     <u>Yinhong Liu</u>, Jianfeng He, et al,  Hang Su and Saab Mansour  
     **EMNLP 2025**.  
 
