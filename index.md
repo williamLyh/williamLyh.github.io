@@ -40,6 +40,23 @@ If you are interested in discussing research or potential collaborations, feel f
     Yinhong Liu\*, Han Zhou\*, Zhijiang Guo, Ehsan Shareghi, Ivan Vuli´c, Anna Korhonen and Nigel Collier. [[code](https://github.com/cambridgeltl/PairS)]   
     **COLM, 2024**. 
 
+* [**<span style="color:blue">From Trainee to Trainer: LLM-Designed Training Environment for RL with Multi-Agent Reasoning</span>**](https://arxiv.org/abs/2606.17682)  
+    Chao Chen, Chengzu Li, Zhiwei Li, <U>Yinhong Liu</U>, Zhijiang Guo
+    **Under Review**.
+
+* [**<span style="color:blue">Demystifying Hidden-State Recurrence: Switchable Latent Reasoning with On-Policy Reinforcement Learning</span>**](https://arxiv.org/abs/2606.13106)  
+    Jiayu Yang, Chao Chen, Shengen Wu, <U>Yinhong Liu</U>, Yuxuan Fan, Lujundong Li, Songning Lai, Chengwei Qin, Zhijiang Guo
+    **Under Review**.
+
+* [**<span style="color:blue">DOperadic consistency: a label-free signal for compositional reasoning failures in LLMs</span>**](https://arxiv.org/abs/2606.13649)  
+    Nathaniel Bottman, <U>Yinhong Liu</U>, Kyle Richardson
+    **Under Review**.
+
+* [**<span style="color:blue">From Chains to Graphs: Self-Structured Reasoning for General-Domain LLMs</span>**](https://arxiv.org/abs/2601.03597)  
+    Yingjian Chen, Haoran Liu, <u>Yinhong Liu</u>, et al., Irene Li
+    **Under Review**.
+
+
 * [**<span style="color:blue">Improving Preference Extraction In LLMs By Identifying Latent Knowledge Through Classifying Probes</span>**](https://arxiv.org/abs/2503.17755)  
     Sharan Maiya, <U>Yinhong Liu</u>, Ramit Debnath and Anna Korhonen  
     **ACL 2025, main**.
@@ -52,9 +69,9 @@ If you are interested in discussing research or potential collaborations, feel f
     <u>Yinhong Liu</u>, Jianfeng He, et al,  Hang Su and Saab Mansour  
     **EMNLP 2025**.  
 
-* [**<span style="color:blue">Dial HEALTHDIAL for Advice: A Multilingual and Multi-Parallel Spoken Dialogue Dataset for Evidence-Based Public Health Communication.</span>**]()  
+* [**<span style="color:blue">Dial HEALTHDIAL for Advice: A Multilingual and Multi-Parallel Spoken Dialogue Dataset for Knowledge-Grounded Information Seeking</span>**](https://arxiv.org/abs/2605.30107)  
     Songbo Hu\*, <u>Yinhong Liu</u>\*, Yijie Zhou\*, et al, Ivan Vulić\*\* and Anna Korhonen\*\*.  
-    **Under Review**.  
+    **ACL 2026**.  
 
 * [**<span style="color:blue">When Personalization Meets Reality: A Multi-Faceted Analysis of Personalized Preference Learning</span>**](https://arxiv.org/abs/2502.19158)  
     Yijiang River Dong, Tiancheng Hu, <u>Yinhong Liu</u>, Ahmet &Uuml;st&uuml;n and Nigel Collier  
