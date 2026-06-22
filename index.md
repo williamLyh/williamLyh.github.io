@@ -3,7 +3,8 @@ layout: default
 ---
 
 ## Bio
-I am a fourth-year PhD student in the Language Technology Lab at the University of Cambridge, working under the supervision of Prof. Nigel Collier. My research focuses on Natural Language Processing (NLP) and Large Language Models (LLMs), with a particular interest in post-training techniques (including preference modeling, alignment, and calibration), evaluation, and data synthesis.
+I am a final-year PhD student in the Language Technology Lab at the University of Cambridge, working under the supervision of Prof. Nigel Collier. 
+I'm a fan of the Great Automation—the idea that increasingly capable systems can learn, evolve, and improve with minimal human intervention. My interests span the entire lifecycle of self-evolving agents, from data acquisition and autonomous interaction to memory, tool use, feedback-driven optimization, and continual adaptation.
 
 If you are interested in discussing research or potential collaborations, feel free to reach out via email.
 
@@ -48,7 +49,7 @@ If you are interested in discussing research or potential collaborations, feel f
     Jiayu Yang, Chao Chen, Shengen Wu, <U>Yinhong Liu</U>, Yuxuan Fan, Lujundong Li, Songning Lai, Chengwei Qin, Zhijiang Guo
     **Under Review**.
 
-* [**<span style="color:blue">DOperadic consistency: a label-free signal for compositional reasoning failures in LLMs</span>**](https://arxiv.org/abs/2606.13649)  
+* [**<span style="color:blue">Operadic consistency: a label-free signal for compositional reasoning failures in LLMs</span>**](https://arxiv.org/abs/2606.13649)  
     Nathaniel Bottman, <U>Yinhong Liu</U>, Kyle Richardson
     **Under Review**.
 
