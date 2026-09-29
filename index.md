@@ -15,7 +15,7 @@ If you are interested in discussing research or potential collaborations, feel f
 <!-- ## <span style="color:red">News!</span> -->
 ## News!
 <!-- * <span style="color:grey">31/01/2025:</span> I will be interning at **Ai2** Seattle this summer.  -->
-
+* <span style="color:grey">28/09/2026:</span> One paper got accepted by **NeurIPS 2026**. See you in Sydney!
 * <span style="color:grey">26/08/2025:</span> Three paper got accepted by **EMNLP 2025**. See you in Suzhou!
 * <span style="color:grey">16/05/2025:</span> Two paper got accepted by **ACL 2025, main conference**.
 * <span style="color:grey">01/05/2025:</span> One paper got accepted by **ICML 2025** as a **Spotlight** paper. See you in Vancouver.
@@ -34,6 +34,10 @@ If you are interested in discussing research or potential collaborations, feel f
 * <span style="color:grey">21/03/2022:</span> One paper got accepted by **ACL 2022**, main conference. See you in Dublin.
 
 ## Featured publications
+* [**<span style="color:blue">Action-Space Shaping for LLM Agents: Measuring and Mitigating Tool-Schema Bias</span>**](https://arxiv.org/abs/2609.34971) [[Code](https://github.com/williamLyh/ToolSchemaSpace)]  
+    Yinhong Liu, Zhili Tan, Zilin Wang, Zhijiang Guo.  
+    **Under Review**.
+
 * [**<span style="color:blue">Aligning with Logic: Measuring, Evaluating and Improving Logical Preference Consistency in Large Language Models</span>**](https://arxiv.org/abs/2410.02205) [[Website](https://icml.cc/virtual/2025/poster/45083)]  
     Yinhong Liu, Zhijiang Guo, Tianya Liang, Ehsan Shareghi, Ivan Vuli´c and Nigel Collier.  
     **ICML, Spotlight, 2025**.
@@ -48,15 +52,15 @@ If you are interested in discussing research or potential collaborations, feel f
 
 * [**<span style="color:blue">Demystifying Hidden-State Recurrence: Switchable Latent Reasoning with On-Policy Reinforcement Learning</span>**](https://arxiv.org/abs/2606.13106)  
     Jiayu Yang, Chao Chen, Shengen Wu, <U>Yinhong Liu</U>, Yuxuan Fan, Lujundong Li, Songning Lai, Chengwei Qin, Zhijiang Guo
-    **Under Review**.
+    **EMNLP 2026**.
 
 * [**<span style="color:blue">Operadic consistency: a label-free signal for compositional reasoning failures in LLMs</span>**](https://arxiv.org/abs/2606.13649)  
     Nathaniel Bottman, <U>Yinhong Liu</U>, Kyle Richardson
-    **Under Review**.
+    **NeurIPS 2026w**.
 
 * [**<span style="color:blue">From Chains to Graphs: Self-Structured Reasoning for General-Domain LLMs</span>**](https://arxiv.org/abs/2601.03597)  
     Yingjian Chen, Haoran Liu, <u>Yinhong Liu</u>, et al., Irene Li
-    **Under Review**.
+    **AACL-IJCNLP 2026**.
 
 
 * [**<span style="color:blue">Improving Preference Extraction In LLMs By Identifying Latent Knowledge Through Classifying Probes</span>**](https://arxiv.org/abs/2503.17755)  
