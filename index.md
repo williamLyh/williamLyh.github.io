@@ -3,8 +3,9 @@ layout: default
 ---
 
 ## Bio
-I am a final-year PhD student in the Language Technology Lab at the University of Cambridge, working under the supervision of Prof. Nigel Collier. 
-I'm a fan of the Great Automation—the idea that increasingly capable systems can learn, evolve, and improve with minimal human intervention. My interests span the entire lifecycle of self-evolving agents, from data acquisition and autonomous interaction to memory, tool use, feedback-driven optimization, and continual adaptation.
+Hi, my name is Yinhong Liu (刘胤宏). I'm working in Tencent-HY, as a QingYun researcher (青云计划). Previously, I was in Huawei, as a TopMind (天才少年). I had my PhD in Language Technology Lab at the University of Cambridge, working under the supervision of Prof. Nigel Collier.
+
+I'm a fan of Great Automation — the idea that increasingly capable systems can learn, evolve, and improve with minimal human intervention. My interests span the entire lifecycle of self-evolving agents, from data acquisition and autonomous interaction with Human/Environment, to feedback-driven optimization, and continual adaptation. One of my current focuses is Interaction, Full-Duplex, Omni, Agentic interaction model, as I believe it leads to next form of scalable signal.
 
 If you are interested in discussing research or potential collaborations, feel free to reach out via email.
 
@@ -34,76 +35,90 @@ If you are interested in discussing research or potential collaborations, feel f
 * <span style="color:grey">21/03/2022:</span> One paper got accepted by **ACL 2022**, main conference. See you in Dublin.
 
 ## Featured publications
+#### Recursive Self-Improvement \& Agents:
 * [**<span style="color:blue">Action-Space Shaping for LLM Agents: Measuring and Mitigating Tool-Schema Bias</span>**](https://arxiv.org/abs/2609.34971) [[Code](https://github.com/williamLyh/ToolSchemaSpace)]  
     Yinhong Liu, Zhili Tan, Zilin Wang, Zhijiang Guo.  
     **Under Review**.
 
-* [**<span style="color:blue">Aligning with Logic: Measuring, Evaluating and Improving Logical Preference Consistency in Large Language Models</span>**](https://arxiv.org/abs/2410.02205) [[Website](https://icml.cc/virtual/2025/poster/45083)]  
-    Yinhong Liu, Zhijiang Guo, Tianya Liang, Ehsan Shareghi, Ivan Vuli´c and Nigel Collier.  
-    **ICML, Spotlight, 2025**.
-
-* [**<span style="color:blue">Aligning with Human Judgement: The Role of Pairwise Preference in Large Language Model Evaluators</span>**](https://arxiv.org/abs/2403.16950.pdf)  
-    Yinhong Liu\*, Han Zhou\*, Zhijiang Guo, Ehsan Shareghi, Ivan Vuli´c, Anna Korhonen and Nigel Collier. [[code](https://github.com/cambridgeltl/PairS)]   
-    **COLM, 2024**. 
+* [**<span style="color:blue">Trajectory-Level Speculation with Semantic Verification for Tool-Using Agents</span>**](https://arxiv.org/abs/2610.21463) 
+    Zilin Wang, Yinhong Liu, Chao Chen, Qun Liu, Zhijiang Guo.
+    **Under Review**.
 
 * [**<span style="color:blue">From Trainee to Trainer: LLM-Designed Training Environment for RL with Multi-Agent Reasoning</span>**](https://arxiv.org/abs/2606.17682)  
     Chao Chen, Chengzu Li, Zhiwei Li, <U>Yinhong Liu</U>, Zhijiang Guo
     **Under Review**.
 
-* [**<span style="color:blue">Demystifying Hidden-State Recurrence: Switchable Latent Reasoning with On-Policy Reinforcement Learning</span>**](https://arxiv.org/abs/2606.13106)  
-    Jiayu Yang, Chao Chen, Shengen Wu, <U>Yinhong Liu</U>, Yuxuan Fan, Lujundong Li, Songning Lai, Chengwei Qin, Zhijiang Guo
-    **EMNLP 2026**.
-
-* [**<span style="color:blue">Operadic consistency: a label-free signal for compositional reasoning failures in LLMs</span>**](https://arxiv.org/abs/2606.13649)  
-    Nathaniel Bottman, <U>Yinhong Liu</U>, Kyle Richardson
-    **NeurIPS 2026w**.
-
-* [**<span style="color:blue">From Chains to Graphs: Self-Structured Reasoning for General-Domain LLMs</span>**](https://arxiv.org/abs/2601.03597)  
-    Yingjian Chen, Haoran Liu, <u>Yinhong Liu</u>, et al., Irene Li
-    **AACL-IJCNLP 2026**.
 
 
-* [**<span style="color:blue">Improving Preference Extraction In LLMs By Identifying Latent Knowledge Through Classifying Probes</span>**](https://arxiv.org/abs/2503.17755)  
-    Sharan Maiya, <U>Yinhong Liu</u>, Ramit Debnath and Anna Korhonen  
-    **ACL 2025, main**.
-
-* [**<span style="color:blue">GraphCheck: Breaking Long-Term Text Barriers with Extracted Knowledge Graph-Powered Fact-Checking</span>**](https://www.arxiv.org/abs/2502.16514)  
-    Yingjian Chen, Haoran Liu, <u>Yinhong Liu</u>, Rui Yang, Han Yuan, Yanran Fu, Pengyuan Zhou, Qingyu Chen, James Caverlee and Irene Li  
-    **ACL 2025, main**.  
+#### LLM Evaluation \& LLM-as-a-Judge:
+* [**<span style="color:blue">Aligning with Human Judgement: The Role of Pairwise Preference in Large Language Model Evaluators</span>**](https://arxiv.org/abs/2403.16950.pdf)  
+    Yinhong Liu\*, Han Zhou\*, Zhijiang Guo, Ehsan Shareghi, Ivan Vuli´c, Anna Korhonen and Nigel Collier. [[code](https://github.com/cambridgeltl/PairS)]   
+    **COLM, 2024**. 
 
 * [**<span style="color:blue">MDSEval: A Meta-Evaluation Benchmark for Multimodal Dialogue Summarization.</span>**](https://arxiv.org/abs/2510.01659)[Images link](https://drive.google.com/drive/folders/1BHoTvIccgk56Q9vLCmuz8KtE6UbwB1X2?usp=drive_link)  
     <u>Yinhong Liu</u>, Jianfeng He, et al,  Hang Su and Saab Mansour  
     **EMNLP 2025**.  
 
-* [**<span style="color:blue">Dial HEALTHDIAL for Advice: A Multilingual and Multi-Parallel Spoken Dialogue Dataset for Knowledge-Grounded Information Seeking</span>**](https://arxiv.org/abs/2605.30107)  
-    Songbo Hu\*, <u>Yinhong Liu</u>\*, Yijie Zhou\*, et al, Ivan Vulić\*\* and Anna Korhonen\*\*.  
-    **ACL 2026**.  
+* [**<span style="color:blue">Unlocking Structure Measuring: Introducing PDD, an Automatic Metric for Positional Discourse Coherence</span>**](https://arxiv.org/abs/2402.10175)  
+    Yinhong Liu, Yixuan Su, Ehsan Shareghi and Nigel Collier. [[code](https://github.com/williamLyh/pos_div_metric)]  
+    **NAACL, main conference, 2024**.
+
+
+#### Preference Alignment \& Reasoning:
+* [**<span style="color:blue">Aligning with Logic: Measuring, Evaluating and Improving Logical Preference Consistency in Large Language Models</span>**](https://arxiv.org/abs/2410.02205) [[Website](https://icml.cc/virtual/2025/poster/45083)]  
+    Yinhong Liu, Zhijiang Guo, Tianya Liang, Ehsan Shareghi, Ivan Vuli´c and Nigel Collier.  
+    **ICML, Spotlight, 2025**.
+
+* [**<span style="color:blue">Operadic consistency: a label-free signal for compositional reasoning failures in LLMs</span>**](https://arxiv.org/abs/2606.13649)  
+    Nathaniel Bottman, <U>Yinhong Liu</U>, Kyle Richardson
+    **NeurIPS 2026w**.
+
+* [**<span style="color:blue">Improving Preference Extraction In LLMs By Identifying Latent Knowledge Through Classifying Probes</span>**](https://arxiv.org/abs/2503.17755)  
+    Sharan Maiya, <U>Yinhong Liu</u>, Ramit Debnath and Anna Korhonen  
+    **ACL 2025, main**.
 
 * [**<span style="color:blue">When Personalization Meets Reality: A Multi-Faceted Analysis of Personalized Preference Learning</span>**](https://arxiv.org/abs/2502.19158)  
     Yijiang River Dong, Tiancheng Hu, <u>Yinhong Liu</u>, Ahmet &Uuml;st&uuml;n and Nigel Collier  
     **EMNLP 2025**.  
 
-* [**<span style="color:blue">FASTFACT: Faster, Stronger Long-Form Factuality Evaluations in LLMs</span>**]()  
-    Yingjia Wan, Haochen Tan, $\cdots$, <u>Yinhong Liu</u>\* and Zhijiang Guo\*  
-    **EMNLP 2025**.  
+* [**<span style="color:blue">Fairer Preferences Elicit Improved Human-Aligned Large Language Model Judgments</span>**](https://arxiv.org/abs/2406.11370)  
+    Han Zhou, Xingchen Wan, <u>Yinhong Liu</u>, Nigel Collier, Ivan Vulić, Anna Korhonen [[code](https://github.com/cambridgeltl/zepo)]  
+    **EMNLP, main, 2024**.
+
+
+
+#### Agentic Environment \& Data Synthesis:
+* [**<span style="color:blue">Dial HEALTHDIAL for Advice: A Multilingual and Multi-Parallel Spoken Dialogue Dataset for Knowledge-Grounded Information Seeking</span>**](https://arxiv.org/abs/2605.30107)  
+    Songbo Hu\*, <u>Yinhong Liu</u>\*, Yijie Zhou\*, et al, Ivan Vulić\*\* and Anna Korhonen\*\*.  
+    **ACL 2026**.  
 
 * [**<span style="color:blue">TOAD: Task-Oriented Automatic Dialogs with Diverse Response Styles</span>**](https://arxiv.org/abs/2402.10137) [[Apple website](https://machinelearning.apple.com/research/toad)] [[Poster](assets/img/TOAD_Poster_ACL2024.pdf)]  
     Yinhong Liu, Yimai Fang, David Vandyke and Nigel Collier. [[code](https://github.com/apple/ml-toad)]  
     **ACL, findings, 2024**.
 
-* [**<span style="color:blue">Fairer Preferences Elicit Improved Human-Aligned Large Language Model Judgments</span>**](https://arxiv.org/abs/2406.11370)  
-    Han Zhou, Xingchen Wan, <u>Yinhong Liu</u>, Nigel Collier, Ivan Vulić, Anna Korhonen [[code](https://github.com/cambridgeltl/zepo)]  
-    **EMNLP, main, 2024**.
+
+
+#### Others: 
+* [**<span style="color:blue">From Chains to Graphs: Self-Structured Reasoning for General-Domain LLMs</span>**](https://arxiv.org/abs/2601.03597)  
+    Yingjian Chen, Haoran Liu, <u>Yinhong Liu</u>, et al., Irene Li
+    **AACL-IJCNLP 2026**.
+
+* [**<span style="color:blue">Demystifying Hidden-State Recurrence: Switchable Latent Reasoning with On-Policy Reinforcement Learning</span>**](https://arxiv.org/abs/2606.13106)  
+    Jiayu Yang, Chao Chen, Shengen Wu, <U>Yinhong Liu</U>, Yuxuan Fan, Lujundong Li, Songning Lai, Chengwei Qin, Zhijiang Guo
+    **EMNLP 2026**.
+
+* [**<span style="color:blue">GraphCheck: Breaking Long-Term Text Barriers with Extracted Knowledge Graph-Powered Fact-Checking</span>**](https://www.arxiv.org/abs/2502.16514)  
+    Yingjian Chen, Haoran Liu, <u>Yinhong Liu</u>, Rui Yang, Han Yuan, Yanran Fu, Pengyuan Zhou, Qingyu Chen, James Caverlee and Irene Li  
+    **ACL 2025, main**.  
+
+* [**<span style="color:blue">FASTFACT: Faster, Stronger Long-Form Factuality Evaluations in LLMs</span>**]()  
+    Yingjia Wan, Haochen Tan, $\cdots$, <u>Yinhong Liu</u>\* and Zhijiang Guo\*  
+    **EMNLP 2025**.  
 
 * [**<span style="color:blue">MR-BEN: A Comprehensive Meta-Reasoning Benchmark for Large Language Models</span>**](https://arxiv.org/abs/2406.13975)  
     Zhongshen Zeng, <u>Yinhong Liu</u>, Yingjia Wan, Jingyao Li, et al. [[code](https://github.com/dvlab-research/Mr-Ben)]  
     **NIPS, 2024**.
 
-* [**<span style="color:blue">Unlocking Structure Measuring: Introducing PDD, an Automatic Metric for Positional Discourse Coherence</span>**](https://arxiv.org/abs/2402.10175)  
-    Yinhong Liu, Yixuan Su, Ehsan Shareghi and Nigel Collier. [[code](https://github.com/williamLyh/pos_div_metric)]  
-    **NAACL, main conference, 2024**.
-
-## Other Publications
 
 * [**<span style="color:blue">Prompt Compression for Large Language Models: A Survey</span>**](https://arxiv.org/abs/2410.12388)  
     Zongqian Li\*, Yinhong Liu\*, Yixuan Su and Nigel Collier.  
@@ -126,7 +141,7 @@ If you are interested in discussing research or potential collaborations, feel f
     **IEEE International Conference on Signal Processing, Communications and Computing (IEEE-ICSPCC), 2020**.
 
 ## Education
-* <span style="color:blue">University of Cambridge</span>, 2021-present   
+* <span style="color:blue">University of Cambridge</span>, 2021-2026   
   PhD in Computation, Cognition and Language. Supervisied by Prof. Nigel Collier and Prof. Ehsan Shareghi.
 * <span style="color:blue">University of Cambridge</span>, 2020-2021  
   Mphil in Advanced Computer Science. Supervisied by Dr. Guy Emerson.
