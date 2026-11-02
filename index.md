@@ -35,9 +35,9 @@ If you are interested in discussing research or potential collaborations, feel f
 * <span style="color:grey">21/03/2022:</span> One paper got accepted by **ACL 2022**, main conference. See you in Dublin.
 
 ## Featured publications
-#### Recursive Self-Improvement \& Agents:
-* [**<span style="color:blue">Action-Space Shaping for LLM Agents: Measuring and Mitigating Tool-Schema Bias</span>**](https://arxiv.org/abs/2609.34971) [[Code](https://github.com/williamLyh/ToolSchemaSpace)]  
-    Yinhong Liu, Zhili Tan, Zilin Wang, Zhijiang Guo.  
+#### Recursive Self-Improvement & Agents:
+* [**<span style="color:blue">Data-Centric Recursive Improvement for Foundation Models: A Survey</span>**](https://www.preprints.org/manuscript/202609.0154) 
+    Co-author
     **Under Review**.
 
 * [**<span style="color:blue">Trajectory-Level Speculation with Semantic Verification for Tool-Using Agents</span>**](https://arxiv.org/abs/2610.21463) 
@@ -50,7 +50,7 @@ If you are interested in discussing research or potential collaborations, feel f
 
 
 
-#### LLM Evaluation \& LLM-as-a-Judge:
+#### LLM Evaluation & LLM-as-a-Judge:
 * [**<span style="color:blue">Aligning with Human Judgement: The Role of Pairwise Preference in Large Language Model Evaluators</span>**](https://arxiv.org/abs/2403.16950.pdf)  
     Yinhong Liu\*, Han Zhou\*, Zhijiang Guo, Ehsan Shareghi, Ivan Vuli´c, Anna Korhonen and Nigel Collier. [[code](https://github.com/cambridgeltl/PairS)]   
     **COLM, 2024**. 
@@ -64,7 +64,7 @@ If you are interested in discussing research or potential collaborations, feel f
     **NAACL, main conference, 2024**.
 
 
-#### Preference Alignment \& Reasoning:
+#### Preference Alignment & Reasoning:
 * [**<span style="color:blue">Aligning with Logic: Measuring, Evaluating and Improving Logical Preference Consistency in Large Language Models</span>**](https://arxiv.org/abs/2410.02205) [[Website](https://icml.cc/virtual/2025/poster/45083)]  
     Yinhong Liu, Zhijiang Guo, Tianya Liang, Ehsan Shareghi, Ivan Vuli´c and Nigel Collier.  
     **ICML, Spotlight, 2025**.
@@ -87,7 +87,16 @@ If you are interested in discussing research or potential collaborations, feel f
 
 
 
-#### Agentic Environment \& Data Synthesis:
+#### Agentic Environment & Data Synthesis:
+* [**<span style="color:blue">Action-Space Shaping for LLM Agents: Measuring and Mitigating Tool-Schema Bias</span>**](https://arxiv.org/abs/2609.34971) [[Code](https://github.com/williamLyh/ToolSchemaSpace)]  
+    Yinhong Liu, Zhili Tan, Zilin Wang, Zhijiang Guo.  
+    **Under Review**.
+
+* [**<span style="color:blue">EnvFactory: Scaling Tool-Use Agents via Executable Environments Synthesis and Robust RL</span>**](https://arxiv.org/abs/2605.18703) 
+    Co-author  
+    **Under Review**.
+
+
 * [**<span style="color:blue">Dial HEALTHDIAL for Advice: A Multilingual and Multi-Parallel Spoken Dialogue Dataset for Knowledge-Grounded Information Seeking</span>**](https://arxiv.org/abs/2605.30107)  
     Songbo Hu\*, <u>Yinhong Liu</u>\*, Yijie Zhou\*, et al, Ivan Vulić\*\* and Anna Korhonen\*\*.  
     **ACL 2026**.  
